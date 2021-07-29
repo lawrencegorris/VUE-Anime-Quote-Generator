@@ -1,19 +1,35 @@
-# vue-anime-quote-generator
+# Anime Quote Generator with Vue
+A simple anime quote generator being build in Vue.js for educational purposes. 
+First time trying out Vue, decided to go with something simple to see how everything works.
 
-## Project setup
+## The goal
+Create a working random anime quote generator and get familiar with Vue in the process.
+
+## Progress:
+- [x] Setup basic project files
+- [ ] Create components
+- [ ] Fetch data (log in console)
+- [ ] Show data on page
+- [ ] Styling
+
+### Thoughts on this project qnd Vue:
+
+#### This project:
+Seems like a fun little project
+
+#### Vue:
+Setup is easy with CLI, different options during installation.
+
+### Project commands
+#### Project Setup
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
