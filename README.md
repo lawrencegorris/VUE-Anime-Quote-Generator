@@ -33,4 +33,4 @@ npm run serve
 ```
 npm run build
 ```
-![Image anime girl showing a thumbs up](vue-anime-quote-generator/readme-resources/img/toppng.com-7639058-thumbs-up-anime-meme-499x517.png)
+![Image anime girl showing a thumbs up](/vue-anime-quote-generator/readme-resources/img/toppng.com-7639058-thumbs-up-anime-meme-499x517.png)
