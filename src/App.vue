@@ -1,12 +1,14 @@
 <template>
   <h1>Hello World</h1>
+  <QuoteGenerator />
 </template>
 
 <script>
+import QuoteGenerator from './components/QuoteGenerator.vue';
 
 export default {
   name: 'App',
-  components: {}
+  components: {QuoteGenerator}
 }
 </script>
 

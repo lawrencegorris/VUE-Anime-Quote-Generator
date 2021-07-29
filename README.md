@@ -8,7 +8,7 @@ Create a working random anime quote generator and get familiar with Vue in the p
 ## Progress:
 - [x] Setup basic project files
 - [ ] Create components
-- [ ] Fetch data (log in console)
+- [x] Fetch data (log in console)
 - [ ] Show data on page
 - [ ] Styling
 
