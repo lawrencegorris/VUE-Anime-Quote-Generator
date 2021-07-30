@@ -10,12 +10,15 @@ Create a working random anime quote generator and get familiar with Vue in the p
 - [x] Create all components
 - [x] Fetch data (log in console)
 - [x] Show data on page
-- [ ] Styling
+- [x] Styling (sort of, room for improvement down the line)
 
 ### Thoughts on this project qnd Vue:
 
 #### This project:
 Seems like a fun little project. Have learned a bit here and there about vue andworking with frameworks.
+
+#### Tailwind
+Tailwind seems like a really powerful utility-first CSS framework
 
 #### Vue:
 Setup is easy with CLI, different options during installation.
