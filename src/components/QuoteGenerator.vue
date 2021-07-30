@@ -1,15 +1,16 @@
 <template>
     <QuoteLayout :quote="quote" :character="character" :anime="anime"/>
-    <button @click="fetchData()">Generate Quote</button>
+    <GeneratorButton @click="fetchData()"/>
 </template>
 
 <script>
 import QuoteLayout from './QuoteLayout.vue'
+import GeneratorButton from './GeneratorButton.vue'
 
 export default {
     name: 'QuoteGenerator',
     components: {
-        QuoteLayout
+        QuoteLayout, GeneratorButton
     },
     data(){
         return{
@@ -27,7 +28,6 @@ export default {
             this.anime = randomQuote.anime
             this.character = randomQuote.character
             this.quote = randomQuote.quote
-            console.log(this.anime + ': ' + this.quote + ' -' + this.character)
             return
         }
     }
