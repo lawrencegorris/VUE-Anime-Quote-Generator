@@ -1,6 +1,6 @@
 <template>
-    <QuoteLayout :quote="quote" :character="character" :anime="anime"/>
     <GeneratorButton @click="fetchData()"/>
+    <QuoteLayout class="align-text-middle" :quote="quote" :character="character" :anime="anime"/>
 </template>
 
 <script>

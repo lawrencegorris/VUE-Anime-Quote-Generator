@@ -1,7 +1,5 @@
-<template>
-    <h2>Quote: {{quote}}</h2>  
-    <h2>Character: {{character}}</h2> 
-    <h2>Anime: {{anime}}</h2>
+<template>  
+    <p class="text-yellow-300 font-medium text-xl md:px-10 p-5">{{quote}} <br><br> - {{character}}, <span class="italic">{{anime}}</span></p>
 </template>
 
 <script>
