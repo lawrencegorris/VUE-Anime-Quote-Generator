@@ -7,18 +7,26 @@ Create a working random anime quote generator and get familiar with Vue in the p
 
 ## Progress:
 - [x] Setup basic project files
-- [ ] Create components
+- [ ] Create all components
 - [x] Fetch data (log in console)
-- [ ] Show data on page
+- [x] Show data on page
 - [ ] Styling
 
 ### Thoughts on this project qnd Vue:
 
 #### This project:
-Seems like a fun little project
+Seems like a fun little project. Have learned a bit here and there about vue andworking with frameworks.
 
 #### Vue:
 Setup is easy with CLI, different options during installation.
+Nice way of writing within the <script> tags in a component. 
+Easy creation of components and placing them in others.
+Props are fun (once I kinda got the hang of it)
+
+#### Rsources used:
+- Vue V3 Docs
+- Youtube
+- https://michaelnthiessen.com/vue-props-ultimate-guide
 
 ### Project commands
 #### Project Setup
